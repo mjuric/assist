@@ -41,7 +41,7 @@ def assist_error_messages(e: int) -> str:
     return message.decode("ascii")
 
 # Do not change the following line. Will be updated automatically with update_version.py
-moduleversion = '1.1.9'
+moduleversion = '1.1.11'
 libassistversion = __version__
 if moduleversion != libassistversion:
     print("WARNING: python module and libassist have different version numbers: ", moduleversion, libassistversion)

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # This script automatically creates a list of examples by reading the header in all problem.c files.
 import glob
 import subprocess
